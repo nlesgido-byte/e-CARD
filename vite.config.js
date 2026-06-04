@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/e-CARD/', // Ensure this matches your repository name exactly
 })
